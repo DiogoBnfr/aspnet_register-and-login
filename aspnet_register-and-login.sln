@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnet_register-and-login", "aspnet_register-and-login.csproj", "{F562BBBB-213B-4EDB-B8D1-C1AF2743875C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnet_register-and-login", "aspnet_register-and-login.csproj", "{A778BE87-7706-4AA5-82AE-DB4AB9335063}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F562BBBB-213B-4EDB-B8D1-C1AF2743875C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F562BBBB-213B-4EDB-B8D1-C1AF2743875C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F562BBBB-213B-4EDB-B8D1-C1AF2743875C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F562BBBB-213B-4EDB-B8D1-C1AF2743875C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A778BE87-7706-4AA5-82AE-DB4AB9335063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A778BE87-7706-4AA5-82AE-DB4AB9335063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A778BE87-7706-4AA5-82AE-DB4AB9335063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A778BE87-7706-4AA5-82AE-DB4AB9335063}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D776CF08-35A6-4492-B1D5-EC589847BFD9}
+		SolutionGuid = {35C565E9-305B-4B09-8AAF-2B30F9000A14}
 	EndGlobalSection
 EndGlobal

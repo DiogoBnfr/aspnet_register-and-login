@@ -20,3 +20,24 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.nav-link {
+    font-size: 20px;
+    margin: 0px 10px
+}
+
+@media (max-width: 767px) {
+    .form-group {
+        width: 100% !important;
+    }
+}
+
+.btn {
+    background-color: darkred;
+    color: white !important;
+    height: 45px
+}
+
+.btn:hover {
+    background-color: #9a0000;
+}
